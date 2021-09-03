@@ -4,9 +4,9 @@ It is a game where the user should login before playig the game then he will be 
 There is NotFound page if the user typed a link while he is not logged in, he will get it.
 
 ## Tools 
-`create-rect-app` to start the project
-`Redux` to manage the state
-`bootstrap` for UI
+`create-rect-app` to start the project.
+`Redux` to manage the state.
+`bootstrap` for UI.
 
 ## Available Scripts
 
