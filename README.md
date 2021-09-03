@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Would you rather game 
+This is the fourth project in Udacity Front End Nano degree.
+It is a game where the user should login before playig the game then he will be able to add questions, answer to existing questions and show the leaderBoard where every player gets rank based on the questions he asked and answered.
+There is NotFound page if the user typed a link while he is not logged in, he will get it.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools 
+`create-rect-app` to start the project
+`Redux` to manage the state
+`bootstrap` for UI
 
 ## Available Scripts
 
